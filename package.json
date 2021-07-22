@@ -1,0 +1,11 @@
+{
+  "name": "html-form-to-netlify-form-plugin",
+  "version": "1.0.0",
+  "description": "Netlify build plugin to add attributes to let Netlify handle form submissions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Garrett Bland",
+  "license": "MIT"
+}
